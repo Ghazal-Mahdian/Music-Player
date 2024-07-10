@@ -4,7 +4,7 @@ Hey^^ I'm taking the "JavaScript Algorithms and Data Structures (Beta)" course o
 
 and I'm excited to share my journey of learning JavaScript! 
 
-In this project is I have learned about fundamental concepts such as handling audio playback, managing a playlist, implementing play, pause, next, previous, and shuffle functionalities.
+In this project I have learned about fundamental concepts such as handling audio playback, managing a playlist, implementing play, pause, next, previous, and shuffle functionalities.
 
 
 
