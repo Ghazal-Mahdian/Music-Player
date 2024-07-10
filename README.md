@@ -7,10 +7,10 @@
 
 ![javascript](https://github.com/Ghazal-Mahdian/Music-Player/blob/main/music-player.png)
 
-##Source
-/*
+## Source
+
  * This code is based on the freeCodeCamp project.
  * Original code: https://github.com/freeCodeCamp/freeCodeCamp
  * Licensed under the MIT License.
  * Copyright (c) 2024 freeCodeCamp.
- */
+   
