@@ -15,7 +15,7 @@ In this project, I learned fundamental concepts such as handling audio playback,
 
 [![View](https://github.com/Ghazal-Mahdian/Music-Player/blob/main/images/view%20(1).png)](https://raw.githack.com/Ghazal-Mahdian/Music-Player/main/index.html)
 
-[![javascript](https://github.com/Ghazal-Mahdian/Music-Player/blob/main/music-player.png)](https://raw.githack.com/Ghazal-Mahdian/Music-Player/main/index.html)
+[![javascript](https://github.com/Ghazal-Mahdian/Music-Player/blob/main/images/music-player.png)](https://raw.githack.com/Ghazal-Mahdian/Music-Player/main/index.html)
 
 
 ## Source
