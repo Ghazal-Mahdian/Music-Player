@@ -1,22 +1,24 @@
-## Intro
 
-Hey^^ I'm taking the "JavaScript Algorithms and Data Structures (Beta)" course on freeCodeCamp
+## Intro [![View](https://github.com/Ghazal-Mahdian/Date-Formatter/blob/main/images/hand.png)]
 
-and I'm excited to share my journey of learning JavaScript! 
+Hey there! I'm currently enrolled in the "JavaScript Algorithms and Data Structures (Beta)" course on freeCodeCamp, 
+and I'm thrilled to share my journey of learning JavaScript!
 
-In this project I have learned about fundamental concepts such as handling audio playback, managing a playlist, implementing play, pause, next, previous, and shuffle functionalities.
+
+## Music-Player
+
+In this project, I learned fundamental concepts such as handling audio playback, managing playlists, and implementing functionalities like play, pause, next, previous, and shuffle.
 
 
 
 ## Demo
-[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://raw.githack.com/Ghazal-Mahdian/Music-Player/main/index.html)
 
-![javascript](https://github.com/Ghazal-Mahdian/Music-Player/blob/main/music-player.png)
+[![View](https://github.com/Ghazal-Mahdian/Music-Player/blob/main/images/view%20(1).png)](https://raw.githack.com/Ghazal-Mahdian/Music-Player/main/index.html)
+
+[![javascript](https://github.com/Ghazal-Mahdian/Music-Player/blob/main/music-player.png)](https://raw.githack.com/Ghazal-Mahdian/Music-Player/main/index.html)
+
 
 ## Source
 
- * This code is based on the freeCodeCamp project.
- * Original code: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-string-and-array-methods-by-building-a-music-player
- * Licensed under the MIT License.
- * Copyright (c) 2024 freeCodeCamp.
+[![View](https://github.com/Ghazal-Mahdian/Date-Formatter/blob/main/images/web.png)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/#learn-basic-string-and-array-methods-by-building-a-music-player)
    
